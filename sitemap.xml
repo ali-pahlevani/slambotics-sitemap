@@ -9,37 +9,57 @@
 
 <url>
   <loc>https://www.slambotics.org/</loc>
-  <lastmod>2025-09-18T14:25:48+00:00</lastmod>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.slambotics.org/home</loc>
-  <lastmod>2025-09-18T14:25:48+00:00</lastmod>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.slambotics.org/services</loc>
-  <lastmod>2025-09-18T14:25:48+00:00</lastmod>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.slambotics.org/products</loc>
-  <lastmod>2025-09-18T14:25:48+00:00</lastmod>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.slambotics.org/blog</loc>
-  <lastmod>2025-09-18T14:25:48+00:00</lastmod>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.slambotics.org/blog/which-slam-to-choose</loc>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.slambotics.org/blog/kinematics-in-mobile-robots</loc>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.slambotics.org/blog/slam-in-a-nutshell</loc>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.slambotics.org/blog/what-is-lio</loc>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.slambotics.org/about</loc>
-  <lastmod>2025-09-18T14:25:48+00:00</lastmod>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.slambotics.org/contact</loc>
-  <lastmod>2025-09-18T14:25:48+00:00</lastmod>
+  <lastmod>2025-09-18T14:35:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
